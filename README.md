@@ -1,6 +1,6 @@
-# Akash Gaikwad — Portfolio
+# Devesh Mahajan — Portfolio
 
-This is a minimal, responsive static portfolio template for Akash Gaikwad.
+This is a minimal, responsive static portfolio template for Devesh Mahajan.
 
 How to use
 
