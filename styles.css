@@ -29,7 +29,7 @@ body{margin:0;font-family:Inter,system-ui,Segoe UI,Roboto,"Helvetica Neue",Arial
 .social-link-icon:hover{transform:translateY(-1px);background:rgba(255,255,255,0.06)}
 
 /* Image switcher */
-.hero-image-wrap{position:relative}
+.hero-image-wrap{position:relative;top:25px;}
 #heroImage{transition:opacity .4s ease,transform .4s ease}
 .image-switch{display:flex;gap:8px;margin-top:12px;justify-content:center}
 .image-switch .img-option{background:transparent;border:1px solid transparent;padding:4px;border-radius:8px;cursor:pointer}
