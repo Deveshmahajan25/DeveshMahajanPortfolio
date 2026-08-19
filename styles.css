@@ -219,6 +219,7 @@ a{color:inherit}
   align-items:flex-end;
   justify-content:center;
   isolation:isolate;
+   z-index:2;
 }
 
 /* Transparent tilted neon-blue rectangular frame.
@@ -311,14 +312,14 @@ a{color:inherit}
     0 -4px 14px rgba(24,119,255,.40),
     0 -12px 35px rgba(0,150,255,.12);
   opacity:.9;
-  z-index:2;
+  z-index:1;
   pointer-events:none;
 }
 
 /* Second and third wave lines are made with the hero pseudo-elements
    and the existing SVG wave in the HTML. */
 .hero-wave{
-  position:absolute ;
+  position:absolute;
   left:0;
   right:0;
   bottom:-2px;
